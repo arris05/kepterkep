@@ -1,0 +1,48 @@
+#hid {
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(203, 238, 203);
+    padding: 20px;
+}
+
+.kozepre {
+    margin: auto;
+    text-align: center;
+}
+
+.balra {
+    float: left;
+    border: 2px solid green;
+    margin: 10px;
+}
+
+.jobbra {
+    float: right;
+    border: 2px solid green;
+    margin: 10px;
+}
+
+.hid {
+    background-color: rgb(168, 212, 168);
+    color: darkgreen;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+#lista {
+    text-align: justify;
+    font-size: 90%;
+}
+
+p {
+    text-align: justify;
+}
+
